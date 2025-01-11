@@ -8,12 +8,16 @@ A python program to control a linux or windows machine remotely using telegram b
 
 ### Usage:
 1. Create a telegram bot with the help of [BotFather](https://telegram.me/BotFather)
-2. Paste your bot api token on **line 169** of [telegram-control.py](https://github.com/ggk570/telegram-remote-control/blob/main/telegram-control.py) 
+2. Paste your bot api token on **line 169** of [telegram-control.py](https://github.com/ggk570/telegram-remote-control/blob/main/telegram-control.py)
+   
 ![auth_token](https://github.com/ggk570/telegram-remote-control/blob/main/Screenshots/api_token.png?raw=true)
-3. Change the password on **line 20**, you can use this password to authenticate to bot
+
+4. Change the password on **line 20**, you can use this password to authenticate to bot
+   
 ![password](https://github.com/ggk570/telegram-remote-control/blob/main/Screenshots/password.png?raw=true)
-4. Now you can add a cronjob/startup script to execute the script automatically
-5. To manually run the program use command:
+
+6. Now you can add a cronjob/startup script to execute the script automatically
+7. To manually run the program use command:
 ```bash
 python3 telegram-control.py
 ```
