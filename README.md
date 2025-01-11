@@ -65,6 +65,10 @@ Example:
 ```
 
 ### Demonstration
+**Target Machine**
+
+![target_command](https://github.com/ggk570/telegram-remote-control/blob/main/Screenshots/target_machine.jpeg?raw=true)
+
 **Attack Machine**
 
-[![demo]()](https://youtube.com/shorts/-uiQZ_9PqLI)
+[![demo]()](https://www.youtube.com/watch?v=-uiQZ_9PqLI)
