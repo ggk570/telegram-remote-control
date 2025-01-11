@@ -1,5 +1,5 @@
 # telegram-remote-control
-A sample python program to control a linux or windows machine remotely using telegram bot
+A python program to control a linux or windows machine remotely using telegram bot
 
 **Features:**
 - Upload files to remote host
