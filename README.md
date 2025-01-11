@@ -64,3 +64,9 @@ Example:
 /upload /tmp
 ```
 
+### Demonstration
+**Target Machine**
+
+**Attack Machine**
+![demo](https://github.com/ggk570/telegram-remote-control/raw/refs/heads/main/Screenshots/attack_machine.mp4)
+
