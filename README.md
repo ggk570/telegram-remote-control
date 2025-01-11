@@ -6,6 +6,11 @@ A python program to control a linux or windows machine remotely using telegram b
 - Download files from remote host
 - Execute shell commands
 
+**Requirements:**
+```
+pip3 install python-telegram-bot
+```
+
 ### Usage:
 1. Create a telegram bot with the help of [BotFather](https://telegram.me/BotFather)
 
