@@ -71,4 +71,4 @@ Example:
 
 **Attack Machine**
 
-[![demo]()](https://www.youtube.com/watch?v=-uiQZ_9PqLI)
+[![demo](https://github.com/ggk570/telegram-remote-control/blob/main/Screenshots/video_demonstration_thumbnail.png?raw=true)](https://www.youtube.com/watch?v=-uiQZ_9PqLI)
