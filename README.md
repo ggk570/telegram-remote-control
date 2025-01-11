@@ -66,9 +66,12 @@ Example:
 
 ### Demonstration
 **Target Machine**
+
 ![target_machine_command](https://github.com/ggk570/telegram-remote-control/blob/main/Screenshots/target_machine.jpeg?raw=true)
 
+
 **Attack Machine**
+
 [![demo](https://github.com/ggk570/telegram-remote-control/blob/main/Screenshots/video_demonstration_thumbnail.png?raw=true)](
-https://raw.githubusercontent.com/ggk570/telegram-remote-control/refs/heads/main/Screenshots/attack_machine.mp4)
+https://github.com/ggk570/telegram-remote-control/raw/refs/heads/main/Screenshots/attack_machine.mp4)
 
